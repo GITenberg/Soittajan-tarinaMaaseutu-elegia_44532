@@ -1,0 +1,36 @@
+_repo: Soittajan-tarinaMaaseutu-elegia_44532
+_version: 0.1.0
+alternative_title: Kirke og orgel. Finnish
+contributor:
+  translator:
+    agent_name: Palola, Eino
+    gutenberg_agent_id: '42797'
+    url: http://www.gutenberg.org/2009/agents/42797
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drachmann, Holger
+    aliases:
+    - Drachman, Holger
+    - Drachmann, Holger Henrik Herholdt
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '25086'
+    url: http://www.gutenberg.org/2009/agents/25086
+    wikipedia: http://en.wikipedia.org/wiki/Holger_Drachmann
+description: ''
+gutenberg_issued: '2013-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44532'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish fiction -- Translations into Finnish'
+- !lcc 'PT'
+title: 'Soittajan tarina: Maaseutu-elegia'
+url: http://www.gutenberg.org/ebooks/44532
