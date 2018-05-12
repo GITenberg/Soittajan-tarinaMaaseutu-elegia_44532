@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25086
     wikipedia: http://en.wikipedia.org/wiki/Holger_Drachmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44532#Soittajan-tarinaMaaseutu-elegia
 gutenberg_issued: '2013-12-28'
 gutenberg_type: Text
 identifiers:
